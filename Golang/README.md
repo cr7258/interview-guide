@@ -1,5 +1,5 @@
-[defer 的执行顺序](question1/README.md)
-[for range 指针取值问题](question2/README.md)
+- [1.defer 的执行顺序](question1/README.md)
+- [2.for range 指针取值问题](question2/README.md)
 
 ## 参考资料
 - [【汇总】Go 面试每天一篇](https://mp.weixin.qq.com/s/rEXhrAqEOg9Ja4wYomOsGw)
