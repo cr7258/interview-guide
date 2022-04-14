@@ -7,7 +7,7 @@ func main() {
 	m := make(map[int]*int)
 
 	for key, val := range slice {
-		// 在赋值前用另一个变量替换
+		// // 引入一个中间变量，每次迭代都重新声明一个变量
 		value := val
 		m[key] = &value
 	}
