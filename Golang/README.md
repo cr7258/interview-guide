@@ -3,6 +3,9 @@
 - [3 使用 append 向 slice 添加元素](question3/README.md)
 - [4 返回值命名](question3/README.md)
 - [5 new() 与 make() 的区别](question3/README.md)
+- [6 不能对指针执行 append 操作](question4/README.md)
+- [7 append 操作切片](question4/README.md)
+- [8 变量声明的简短模式](question4/README.md)
 
 ## 参考资料
 - [【汇总】Go 面试每天一篇](https://mp.weixin.qq.com/s/rEXhrAqEOg9Ja4wYomOsGw)
