@@ -6,6 +6,7 @@
 - [6 不能对指针执行 append 操作](question4/README.md)
 - [7 append 操作切片](question4/README.md)
 - [8 变量声明的简短模式](question4/README.md)
+- [9 结构体的比较](question5/README.md)
 
 ## 参考资料
 - [【汇总】Go 面试每天一篇](https://mp.weixin.qq.com/s/rEXhrAqEOg9Ja4wYomOsGw)
