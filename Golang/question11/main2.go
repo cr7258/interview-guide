@@ -45,7 +45,7 @@ func main() {
 	c.code()
 	c.debug()
 }
-src/main.go:23:6: cannot use Gopher literal (type Gopher) as type coder in assignment:
+src/queue.go:23:6: cannot use Gopher literal (type Gopher) as type coder in assignment:
 	Gopher does not implement coder (debug method has pointer receiver)
 
 第二次报错是说，Gopher 没有实现 coder。很明显了吧，因为 Gopher 类型并没有实现 debug 方法；表面上看，
