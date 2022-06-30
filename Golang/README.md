@@ -11,6 +11,7 @@
 - [11 值接收者和指针接收者的区别](question11/README.md)
 - [12 如何用 interface 实现多态](question12/README.md)
 - [13 实现一个线程安全的队列](question13/queue.go)
+- [14 golang slice在其他函数中 append 修改](question14/README.md)
 
 ## 参考资料
 - [【汇总】Go 面试每天一篇](https://mp.weixin.qq.com/s/rEXhrAqEOg9Ja4wYomOsGw)
