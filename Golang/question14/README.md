@@ -13,7 +13,6 @@ func add(arr []int) {
    arr[1] = 100 // 直接修改指针指向的数据的内容，生效
 }
 
-```golang
 func main() {
    // 第一个元素初始值为 0
    arr := make([]int, 1, 10)
